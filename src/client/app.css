@@ -1,0 +1,66 @@
+h1 {
+  color: green;
+}
+
+/* .login {
+} */
+
+.link {
+  text-decoration: underline;
+}
+
+.link-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+  /* padding: 15px; */
+}
+
+.card-image {
+  border-radius: 10px;
+  background-color: black;
+  width: 100px;
+  height: 75px;
+  float: left;
+}
+
+.item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-container {
+  display: block;
+}
+
+.card-desc {
+  float: left;
+  margin-left: 20px;
+}
+
+.card-button {
+  float: right;
+  margin-top: 20px;
+}
+
+.form {
+  padding: 20px;
+}
+
+.filter-location {
+  margin-left: 10px;
+}
+
+.filter-container {
+  margin-top: 10px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,26 @@
+[{
+    "role": "Front-end Developer1",
+    "skills": "ReactJs, HTML, CSS, Javascript",
+    "details": {"location" : "Bangalore1", "company": "LetsVenture", "exp": "0-2 yrs exp"}
+},
+{
+    "role": "Front-end Developer2",
+    "skills": "ReactJs, HTML, CSS, Javascript",
+    "details": {"location" : "Bangalore2", "company": "LetsVenture", "exp": "0-2 yrs exp"}
+},
+{
+    "role": "Front-end Developer3",
+    "skills": "ReactJs, HTML, CSS, Javascript",
+    "details": {"location" : "Bangalore3", "company": "LetsVenture", "exp": "0-2 yrs exp"}
+},
+{
+    "role": "Front-end Developer4",
+    "skills": "ReactJs, HTML, CSS, Javascript",
+    "details": {"location" : "Bangalore4", "company": "LetsVenture", "exp": "0-2 yrs exp"}
+},
+{
+    "role": "Front-end Developer5",
+    "skills": "ReactJs, HTML, CSS, Javascript",
+    "details": {"location" : "Bangalore5", "company": "LetsVenture", "exp": "0-2 yrs exp"}
+}
+]
